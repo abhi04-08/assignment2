@@ -28,10 +28,9 @@ body{
 
 .leftright{
     background-color: white;
-    width: 100%;
     padding: 40px;
     display: flex;
-    margin-top: 100px;
+    margin-top: 55px;
     margin-right: 120px;
     gap: 80px;
     align-content: center;
@@ -77,4 +76,5 @@ button{
         justify-content: center;
         align-content: center;
     }
+
 }
