@@ -30,7 +30,7 @@ body{
     background-color: white;
     padding: 40px;
     display: flex;
-    margin-top: 55px;
+    margin-top: 50px;
     margin-right: 120px;
     gap: 80px;
     align-content: center;
@@ -78,3 +78,4 @@ button{
     }
 
 }
+
